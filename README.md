@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Saurav Chauhan, a Full Stack Developer and a B.Tech graduate.
+I'm **Saurav Chauhan**, a Full Stack Developer and a B.Tech graduate.
 
 ## 🛠️ My Skills
 

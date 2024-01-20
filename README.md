@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Brassalsa/Brassalsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Saurav Chauhan, a Full Stack Developer and a B.Tech graduate.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend Development: **HTML**, **CSS**, **JavaScript**, **TypeScript**
+- Backend Development: **Node.js**, **Express.js**
+- Libraries & Frameworks: **React**, **Next.js**
+- Databases: **MongoDB**, **SQL**
+- RESTful APIs
+- T3 Stack
+
+## 🎓 Education
+
+- B.Tech in IT from Shoolini university
+
+## 📚 I'm currently learning
+
+- I am currently learning about Next.js and building some exciting projects.
+
+## 📫 How to reach me
+
+Send me an email at sauravchauhan2k@gmail.com.

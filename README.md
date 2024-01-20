@@ -9,6 +9,7 @@ I'm Saurav Chauhan, a Full Stack Developer and a B.Tech graduate.
 - Libraries & Frameworks: **React**, **Next.js**, **Tailwind CSS**
 - Databases and ORM/ODM: **MongoDB**, **SQL**, **Prisma**
 - **RESTful APIs**
+- **MERN Stack**
 - **T3 Stack**
 
 ## 🎓 Education

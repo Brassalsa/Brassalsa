@@ -5,7 +5,7 @@ I'm Saurav Chauhan, a Full Stack Developer and a B.Tech graduate.
 ## 🛠️ My Skills
 
 - Frontend Development: **HTML**, **CSS**, **JavaScript**, **TypeScript**,
-- Backend Development: **Node.js**, **Express.js**, **GO**
+- Backend Development: **Node.js**, **Express.js**, **GO**, **Python**
 - Libraries & Frameworks: **React**, **Next.js**
 - Databases: **MongoDB**, **SQL**
 - RESTful APIs

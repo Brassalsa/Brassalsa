@@ -18,7 +18,7 @@ I'm **Saurav Chauhan**, a Full Stack Developer and a B.Tech graduate.
 
 ## 📚 I'm currently learning
 
-- I am currently learning about Next.js and building some exciting projects.
+- I am currently learning about Go lang and building some exciting projects.
 
 ## 📫 How to reach me
 
